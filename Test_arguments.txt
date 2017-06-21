@@ -1,0 +1,7 @@
+********************************************************
+Historique des modifications du fichier Test_arguments.c
+********************************************************
+
+1/ Version initiale:
+- utilisation d'un pointeur sur char pour le paramètre argv: *argv
+
